@@ -1,0 +1,17 @@
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.AssemblyInfo.cs
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintBusinessLayer.deps.json
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintBusinessLayer.dll
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintBusinessLayer.pdb
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintDataAcessLayer.dll
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintDataAcessLayer.pdb
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.csproj.CopyComplete
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.dll
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\refint\FingerPrintBusinessLayer.dll
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.pdb
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\ref\FingerPrintBusinessLayer.dll
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\bin\Debug\net6.0\FingerPrintBusinessLayer.runtimeconfig.json
+C:\Users\CMED\source\repos\FingerprintAPI\FingerPrintBusinessLayer\obj\Debug\net6.0\FingerPrintBusinessLayer.genruntimeconfig.cache
